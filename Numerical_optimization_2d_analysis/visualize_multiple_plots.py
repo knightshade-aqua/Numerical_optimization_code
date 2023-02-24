@@ -4,7 +4,8 @@ from matplotlib import cm
 import objective_functions
 
 """ visualize_multiple_plots.py is used to plot the graphs
-    It works on hard-coded values of functions, gradients and hessian """
+    It works on hard-coded values of functions, gradients and hessian 
+    Reference for plot functions: https://github.com/anweshpanda/Trust_Region/blob/main/Trust%20Region.ipynb"""
 
 global scale
 scale = 1
