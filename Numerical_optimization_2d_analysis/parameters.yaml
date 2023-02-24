@@ -1,0 +1,8 @@
+---
+eta1: 0.1
+eta2: 0.25
+eta3: 0.75
+delta_max: 5
+c1: 0.1
+delta_init: 1
+objective: "booth"
